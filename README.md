@@ -1,2 +1,2 @@
 # dex-iescrow
-DEX iESCROW p2p market backend
+DEX iESCROW API p2p market backend
